@@ -10,4 +10,5 @@
 -->
 - 🌱 I’m currently learning cybersecurity.
 
-[ ![matmarqs](https://www.hackthebox.eu/badge/image/1886202)](https://app.hackthebox.com/profile/1886202)    [ ![matmarqs](https://tryhackme-badges.s3.amazonaws.com/matmarqs.png)](https://tryhackme.com/p/matmarqs)
+[<img src="https://www.hackthebox.eu/badge/image/1886202" width="220" height="50"/>](https://app.hackthebox.com/profile/1886202)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/matmarqs.png" width="220" height="50"/>](https://tryhackme.com/p/matmarqs)
