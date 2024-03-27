@@ -17,5 +17,5 @@
 ### [matmarqs@github ~]$ python3 languages.py --user matmarqs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matmarqs&layout=compact&theme=dark)](https://github.com/matmarqs/github-readme-stats)
 
-### [matmarqs@github ~]$ ls ~/social
+### [matmarqs@github ~]$ ls ~/socials
 - LinkedIn - [https://linkedin.com/in/matmarqs](https://www.linkedin.com/in/matmarqs)
