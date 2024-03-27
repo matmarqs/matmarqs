@@ -1,4 +1,4 @@
-### Hi there 👋
+<script src="https://tryhackme.com/badge/2895667"></script>
 
 <!--
 **matmarqs/matmarqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
