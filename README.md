@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning cybersecurity.
+- 🌱 I’m currently studying cybersecurity.
 
 [<img src="https://www.hackthebox.eu/badge/image/1886202" width="220" height="50"/>](https://app.hackthebox.com/profile/1886202)
 [<img src="https://tryhackme-badges.s3.amazonaws.com/matmarqs.png" width="220" height="50"/>](https://tryhackme.com/p/matmarqs)
