@@ -12,6 +12,4 @@
 
 ## My profiles at HackTheBox and TryHackMe
 
-* [ ![matmarqs](https://www.hackthebox.eu/badge/image/1886202)](https://app.hackthebox.com/profile/1886202)
-
-* [ ![matmarqs](https://tryhackme-badges.s3.amazonaws.com/matmarqs.png)](https://tryhackme.com/p/matmarqs)
+[ ![matmarqs](https://www.hackthebox.eu/badge/image/1886202)](https://app.hackthebox.com/profile/1886202)    [ ![matmarqs](https://tryhackme-badges.s3.amazonaws.com/matmarqs.png)](https://tryhackme.com/p/matmarqs)
