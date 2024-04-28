@@ -10,7 +10,7 @@
 -->
 - 🌱 I’m currently studying cybersecurity.
 
-### \[[matmarqs@github.com]() ~\]$ python3 hacking.py
+### \[[matmarqs@github.com]() ~\]$ python3 hackthebox.py
 [<img src="https://www.hackthebox.eu/badge/image/1886202" width="220" height="50"/>](https://app.hackthebox.com/profile/1886202)
 
 <!--
