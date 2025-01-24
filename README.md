@@ -20,5 +20,5 @@
 ### \[[matmarqs@github.com]() ~\]$ python3 languages.py --user matmarqs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matmarqs&layout=compact&theme=dark)](https://github.com/matmarqs)
 
-### \[[matmarqs@github.com]() ~\]$ ls ~/socials
+### \[[matmarqs@github.com]() ~\]$ cat socials.txt
 - LinkedIn - [https://linkedin.com/in/matmarqs](https://www.linkedin.com/in/matmarqs)
