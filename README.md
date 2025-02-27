@@ -8,7 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently studying full-stack development.
+- 🌱 I’m currently studying full-stack development, focusing on JavaScript.
+- 🔭 I'm currently deepening my knowledge on Neovim and Lua.
 
 <!--
 ### \[[matmarqs@github.com]() ~\]$ python3 hackthebox.py
