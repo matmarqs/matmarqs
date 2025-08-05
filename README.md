@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently studying full-stack development, focusing on JavaScript.
-- 🔭 I'm currently deepening my knowledge on Neovim and Lua.
+- 🌱 I’m currently studying Assembly, Reverse Engineering, Binary Exploitation, and also practicing Algorithms in C.
+- 🔭 I like solving low-level CTFs and programming for Linux.
 
 <!--
 ### \[[matmarqs@github.com]() ~\]$ python3 hackthebox.py
