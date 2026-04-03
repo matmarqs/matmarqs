@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently studying Assembly, Reverse Engineering, Binary Exploitation, and also practicing Algorithms in C.
-- 🔭 I like solving low-level CTFs and programming for Linux.
+- 🌱 C · Systems Programming · Low-level Linux development
+- 🔭 Reverse Engineering · Assembly · CTFs
 
 <!--
 ### \[[matmarqs@github.com]() ~\]$ python3 hackthebox.py
@@ -21,7 +21,7 @@
 -->
 
 ### \[[matmarqs@github.com]() ~\]$ python3 languages.py --user matmarqs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matmarqs&layout=compact&theme=dark)](https://github.com/matmarqs)
+[![Top Langs](https://github-readme-stats-omega-murex-78.vercel.app/api/top-langs/?username=matmarqs&layout=compact&theme=dark)](https://github.com/matmarqs)
 
 ### \[[matmarqs@github.com]() ~\]$ cat socials.txt
 - LinkedIn - [https://linkedin.com/in/matmarqs](https://www.linkedin.com/in/matmarqs)
